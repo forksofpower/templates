@@ -3,4 +3,4 @@ A collection of template repositories that I use frequently. Feel free to fork t
 
 ## UI and Component Libraries
 
-[react + storybook](https://github.com/forksofpower/react-component-library-template): React + Storybook component library
+[react](https://github.com/forksofpower/react-component-library-template): React + Storybook component library
