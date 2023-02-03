@@ -1,5 +1,5 @@
 # Repo Templates
-A collection of template repositories that I use frequently.
+A collection of template repositories that I use frequently. Feel free to fork these or use [generate a new repo from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
 ## UI and Component Libraries
 
