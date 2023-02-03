@@ -1,6 +1,6 @@
 # Repo Templates
 A collection of template repositories that I use frequently.
 
-## UI
+## UI and Component Libraries
 
-[react-component-library-template](https://github.com/forksofpower/react-component-library-template): React + Storybook component library
+[react + storybook](https://github.com/forksofpower/react-component-library-template): React + Storybook component library
