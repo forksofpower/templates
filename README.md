@@ -4,3 +4,4 @@ A collection of template repositories that I use frequently. Feel free to fork t
 ## UI and Component Libraries
 
 - [react](https://github.com/forksofpower/react-component-library-template): React + Storybook component library
+- [svelte](https://github.com/forksofpower/sveltekit-component-library-template): (experimental) Sveltekit + Storybook component library
